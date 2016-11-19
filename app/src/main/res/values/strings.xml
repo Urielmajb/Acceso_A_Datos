@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Acceso_A_Datos</string>
+    <string name="title_activity_lista">ListaActivity</string>
+</resources>
